@@ -1,6 +1,7 @@
 # MAPA_Algoritmo-de-Dijkstra.
+Trabalho MAPA da Universidade Cesumar, da disciplina Estrutura de Dados I.
 
-vértices 1, 2, 3, 4 e 5 representam, respectivamente as regiões cidades em que a transportadora opera hoje. O trajeto é representado pelas arestas que liga (1 a 2), (1 a 3), (2 a 4), (2 a 5), e assim por diante. O custo médio (peso) entre cada conexão está representado por X. Você deve substituir o X pelos 7 primeiros dígitos do seu RA (indo da esquerda para direita) multiplicado por 100, na sequência: (1-2), (1-3), (2-4), (2-5), (3-2), (3-5), (4-5).  
+Os vértices 1, 2, 3, 4 e 5 representam, respectivamente as regiões cidades em que a transportadora opera hoje. O trajeto é representado pelas arestas que liga (1 a 2), (1 a 3), (2 a 4), (2 a 5), e assim por diante. O custo médio (peso) entre cada conexão está representado por X. Você deve substituir o X pelos 7 primeiros dígitos do seu RA (indo da esquerda para direita) multiplicado por 100, na sequência: (1-2), (1-3), (2-4), (2-5), (3-2), (3-5), (4-5).  
 
 Exemplo:  
 
